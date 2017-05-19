@@ -1,0 +1,20 @@
+c:\users\soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\bin\Debug\RNA _St_Prediction.exe
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.csprojResolveAssemblyReference.cache
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA__St_Prediction.Form1.resources
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA__St_Prediction.Properties.Resources.resources
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA__St_Prediction.Result.resources
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.csproj.GenerateResource.Cache
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\bin\Debug\RNA _St_Prediction.exe.config
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.exe
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.pdb
+C:\Users\Soudy\documents\visual studio 2013\Projects\RNA _St_Prediction\RNA _St_Prediction\bin\Debug\RNA _St_Prediction.pdb
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\bin\Debug\RNA _St_Prediction.exe.config
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.exe
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.pdb
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\bin\Debug\RNA _St_Prediction.exe
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\bin\Debug\RNA _St_Prediction.pdb
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.csprojResolveAssemblyReference.cache
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA__St_Prediction.Form1.resources
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA__St_Prediction.Properties.Resources.resources
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA__St_Prediction.Result.resources
+G:\mohmed\Third Year _Second Semester\Structural Bioinformatics\Final Project\RNA _St_Prediction\RNA _St_Prediction\obj\Debug\RNA _St_Prediction.csproj.GenerateResource.Cache

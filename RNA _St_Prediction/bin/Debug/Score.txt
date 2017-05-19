@@ -1,0 +1,8 @@
+User Name : Soudy
+IP address : 169.254.166.187
+Query input : GGGAAAUCC
+Quert Output : (((...)))
+Score : 3
+Date of Prediction : 5/12/2017 4:38:13 PM
+
+
