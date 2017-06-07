@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.IO;
-using Microsoft.Win32;
 
 namespace RNA__St_Prediction
 {
@@ -36,14 +35,7 @@ namespace RNA__St_Prediction
                 if (S == input)
                 {
                     MessageBox.Show("Query have been searched Before For more details go to line : " + i);
-                    var nppDir = (string)Registry.GetValue("HKEY_LOCAL_MACHINE\\SOFTWARE\\Notepad++", null, null);
-                    var nppExePath = Path.Combine(nppDir, "Notepad++.exe");
-                    var nppReadmePath = Path.Combine(nppDir, File_Name);
-                    var sb = new StringBuilder();
-                    sb.AppendFormat("\"{0}\" -n{1}", nppReadmePath, i);
-                    Process.Start(nppExePath, sb.ToString());
-
-                    /*Process.Start(File_Name);*/
+                    Process.Start(File_Name);
                     return "-1";
                 }
             }
